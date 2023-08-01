@@ -2,8 +2,8 @@ Self sovereign identity, ID tech solutions using ASP.NET Core
 
 ## ID Tech Products
 - [Microsoft Entra Verified ID](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/) 
-- Trinsic
-- MATTR
+- [Trinsic](https://docs.trinsic.id/)
+- [MATTR](https://learn.mattr.global/docs/)
 
 ## eIDAS and E-ID
 - [Swiss E-ID Ecosystem](https://github.com/e-id-admin)
