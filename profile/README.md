@@ -1,7 +1,7 @@
 Self sovereign identity, ID tech solutions using ASP.NET Core
 
 ## eIDAS and E-ID
-- [Swiss E-ID Ecosystem](https://github.com/e-id-admin)
+- [Swiss E-ID Ecosystem](https://swiyu-admin-ch.github.io/)
 - [discussion-paper-tech-proposal](https://github.com/e-id-admin/open-source-community/blob/main/discussion-paper-tech-proposal/discussion-paper-tech-proposal.md)
 - [Bundesverwaltung Elektronische Identität](https://www.eid.admin.ch)
 - [Italian EUDI Wallet Technical Specifications](https://github.com/italia/eudi-wallet-it-docs)
