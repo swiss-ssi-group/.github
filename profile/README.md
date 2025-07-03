@@ -10,6 +10,7 @@ Self sovereign identity, ID tech solutions using ASP.NET Core
 - [GXFS Whitepaper sheds light on evolving Self Sovereign Identities (SSI) landscape](https://www.gxfs.eu/did-whitepaper/)
 
 ## ID Tech Products
+- [swiyu public beta](https://www.eid.admin.ch/de/public-beta)
 - [Microsoft Entra Verified ID](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/) 
 - [Trinsic](https://docs.trinsic.id/)
 - [MATTR](https://learn.mattr.global/docs/)
