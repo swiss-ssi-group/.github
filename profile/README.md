@@ -1,4 +1,4 @@
-Self sovereign identity, ID tech solutions using ASP.NET Core
+Verifiable digital credentials, ID tech solutions using ASP.NET Core
 
 ## eIDAS and E-ID
 - [Swiss E-ID Ecosystem](https://swiyu-admin-ch.github.io/)
